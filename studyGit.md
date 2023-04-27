@@ -8,3 +8,4 @@ This is the third change.
 This is the fourth change.
 This is the fifth change.
 This is the sixth change.
+This is the seventh change.
